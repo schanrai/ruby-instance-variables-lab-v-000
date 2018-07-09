@@ -10,5 +10,5 @@ class Dog
 end
 
 lassie = Dog.new
-lassie.name = "Lassie"
+lassie.dog_name = "Lassie"
 binding.pry
